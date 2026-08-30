@@ -1,13 +1,13 @@
 {
-  "name": "AnDisha — Forever in Tune",
-  "short_name": "AnDisha",
-  "description": "A romantic music player created for the love story of Anmol and Disha.",
+  "name": "DISHA — Forever in Tune",
+  "short_name": "DISHA",
+  "description": "A romantic music experience made with love, music and memories.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#17050c",
-  "theme_color": "#8b2148",
+  "background_color": "#09090f",
+  "theme_color": "#d6336c",
   "icons": [
     {
       "src": "icon-192.png",
